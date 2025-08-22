@@ -1,0 +1,15 @@
+/* ... */
+
+.gallery {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 1em;
+}
+
+.rounded {
+    border-radius: 15px;
+}
+
+.gallery img {
+    margin-right: 0.2em;
+    width: 150px;
+}
